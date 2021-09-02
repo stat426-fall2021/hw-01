@@ -69,9 +69,7 @@ Out[1]: {'upper': 6, 'lower': 13, 'space': 4}
 *Example output:*
 
 ```
-In [1]: s = "It is a truth universally acknowledged
-that a single man in possession of a good fortune
-must be in want of a wife"
+In [1]: s = "It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife"
 
 In [2]: your_function(s)
 
@@ -126,9 +124,7 @@ Out[1]: {100: 1.0,
 **9. Given a sentance that is a python string, make a list of words.**
 
 ```
-s = "It is a truth universally acknowledged
-that a single man in possession of a good fortune
-must be in want of a wife"
+s = "It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife"
 ```
 *Desired result*
 ```
@@ -187,7 +183,5 @@ words = ['It',
 ```
 *Desired result*
 ```
-"It is a truth universally acknowledged
-that a single man in possession of a good fortune
-must be in want of a wife"
+"It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife"
 ```
